@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.exe
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.deps.json
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.runtimeconfig.json
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.dll
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.pdb
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.AssemblyInfo.cs
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.dll
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\refint\Ejercicio_7.dll
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.pdb
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.genruntimeconfig.cache
+C:\Users\marco\source\repos\ASP_2_2_Ejercicios_basicos_con_LINQ\Ejercicio_7\obj\Debug\net8.0\ref\Ejercicio_7.dll
